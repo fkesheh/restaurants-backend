@@ -1,6 +1,6 @@
 # Restaurants Backend
-## This is a basic server that implements the search engine for the restaurants-app using express and typescript
- 
+
+This is a basic server that implements the search engine for the restaurants-app using express and typescript 
 
 ## Source Code:
 
@@ -27,6 +27,7 @@
 ## Running instructions
 
 To run this project, you need to have node and npm package manager installed. More information at -> https://nodejs.org/en/download/
+
 First install the npm packages
 
 `npm install`
@@ -38,4 +39,5 @@ Then to get the server running on dev mode
 Or you can also build the project and then run it with node.js
 
 `npm run build`
+
 `node ./build/server.js`
